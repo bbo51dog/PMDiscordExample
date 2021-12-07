@@ -1,0 +1,6 @@
+name: PMDiscordExample
+api: [4.0.0]
+main: bbo51dog\pmdiscordexample\Main
+author: bbo51dog
+description: Example plugin for PMDiscordAPI
+version: 1.0.0
